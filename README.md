@@ -65,7 +65,7 @@ CREATE TABLE movies (
 #### 2. Detail Of Movie
 
 ```
-  GET /movies/{id}
+  GET /movies/:id
 ```
 
 | Parameter | Type     | Description                       |
@@ -85,7 +85,7 @@ CREATE TABLE movies (
 #### 4. Update Movie
 
 ```
-  PATCH /movie/{id}
+  PATCH /movie/:id
 ```
 
 | Parameter | Type     | Description                       |
@@ -96,7 +96,7 @@ CREATE TABLE movies (
  #### 5. Delete Movie
 
 ```
-  DELETE /movies/{id}
+  DELETE /movies/:id
 ```
 
 | Parameter | Type     | Description                       |
