@@ -25,7 +25,7 @@ Xsis Test Movie RESTFul API
 ```bash
   go get -u ./...
 ```
-3. Create Database mysql
+3. Create Database Name
 ```bash
  CREATE DATABASE moviedb;
 ```
