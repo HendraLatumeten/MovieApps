@@ -19,7 +19,7 @@ Xsis Test Movie RESTFul API
 
 1. Clone Repository
 ```bash
-  git clone https://github.com/HendraLatumeten/CakeStore.git
+  https://github.com/HendraLatumeten/MovieApps.git
 ```
 2. Install Dependencies
 ```bash
